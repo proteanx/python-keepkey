@@ -527,6 +527,7 @@ class ProtocolMixin(object):
             "Litecoin": 2,
             "Dogecoin": 3,
             "Dash": 5,
+            "DeVault": 339,
             "Namecoin": 7,
             "Bitsend": 91,
             "Groestlcoin": 17,
